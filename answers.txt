@@ -5,3 +5,7 @@ a)  The Product Manager is equivalent to the Product Owner. The roles of the Sof
     risk management and status reports. For budgeting, they must moderate spending and re-allocate funds. Finally 
     their maintenance role includes discovering and fixing bugs through testing and make any changes that the customer 
     wants.
+
+b)  The Scrum Master acts as a facilitator and leader, removing obstacles and creating a productive team environment.
+    The Product Owner represents stakeholders, defines and prioritizes features in the product backlog, and makes decisions 
+    to maximize the product's value. Both roles collaborate closely to support the success of the Scrum team.
