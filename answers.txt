@@ -25,3 +25,8 @@ c) Sprint Plan Meeting:
     - Occurs at the end of the sprint
     - Discuss work complete and move incomplete work to backlog
     - Close sprint
+
+d) Epic - Captures a large body of work that can be broken down into several smaller stories
+Story - A software system requirement that is expressed in a few short sentences
+Task - Work that needs to be completed within a given sprint.
+Bug - Error, or flaw in the system that needs to be fixed.
