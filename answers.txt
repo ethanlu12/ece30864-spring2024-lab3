@@ -1,1 +1,7 @@
-
+a)  The Product Manager is equivalent to the Product Owner. The roles of the Software Project Manager include 
+    planning, execution, time manageent, budget, and maintenance. When planning the project manager must scope, 
+    manage resources, create a timeline, and plan for testing and maintenance. For execution, the project manager 
+    must supervise the team, have team check-ins, and status reports. For their time management role, they must have 
+    risk management and status reports. For budgeting, they must moderate spending and re-allocate funds. Finally 
+    their maintenance role includes discovering and fixing bugs through testing and make any changes that the customer 
+    wants.
